@@ -6,6 +6,13 @@
       "author": "автор 1",
       "genres": "жанр",
       "reiting": 8.1
+    },
+    {
+      "title": "книжка 3",
+      "author": "автор 2",
+      "genres": "жанр",
+      "reiting": 10,
+      "id": 2
     }
   ]
 }
